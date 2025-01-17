@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(to bottom right,#731f39, #e9aec0);
+    color: white;
+    
+}
+
+a{
+    color: white;
+    padding-right: 8px;
+    margin: 8px;
+    transition: 0.3s;
+    
+}
+a:hover{
+    font-weight: bold;
+    color: #f0c8d4;
+    transition:0.3s;
+}
+
+img:hover{
+    transition:0.3s;
+    box-shadow: 4px 4px 4px #2c0c16;
+}
